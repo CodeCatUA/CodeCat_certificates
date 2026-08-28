@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    color: #222;
+}
+
+.page {
+    max-width: 850px;
+    margin: 50px auto;
+    padding: 50px;
+    background: white;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+}
+
+.logo {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.title {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.status {
+    text-align: center;
+    margin: 30px 0;
+    padding: 15px;
+    border-radius: 10px;
+    background: #e8f7e8;
+    color: #187a18;
+    font-weight: bold;
+}
+
+.info {
+    margin: 25px 0;
+}
+
+.info-row {
+    margin: 12px 0;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.skills {
+    margin-top: 30px;
+}
+
+.skills li {
+    margin-bottom: 8px;
+}
+
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
