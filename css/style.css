@@ -6,7 +6,7 @@ body {
 }
 
 .page {
-    max-width: 850px;
+    max-width: 1250px;
     margin: 50px auto;
     padding: 50px;
     background: white;
@@ -15,7 +15,11 @@ body {
     box-shadow: 0 5px 25px rgba(0,0,0,0.08);
 }
 
-
+.logo {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
 .logo img {
     width: 180px;
     height: auto;
